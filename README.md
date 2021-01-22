@@ -4,6 +4,7 @@
 
 
 **About :**
+
 This is how to leverage Firebase so that you don't have to create your own back-end, encrypt your user's passwords or go through the hassle of deploying a back-end application.
 
 
